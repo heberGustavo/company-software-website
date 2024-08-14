@@ -2,6 +2,4 @@
 
 URL: https://hebergustavo.github.io/company-software-website/
 
-![image](https://github.com/user-attachments/assets/fedddf9c-d50b-4662-a511-8f7b551796c8)
-
-![image](https://github.com/user-attachments/assets/19ec1522-4095-4d06-8811-5e9ba893201d)
+![image](https://github.com/user-attachments/assets/7d1faee1-a44f-4cd4-8e0f-ec4e5077aef8)
