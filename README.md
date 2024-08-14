@@ -1,6 +1,6 @@
-Pré-visualização do website
+## Demo - Company Software :construction_worker:
 
-URL: https://companysoftware-gustavos-projects-01827244.vercel.app/
+URL: https://hebergustavo.github.io/company-software-website/
 
 ![image](https://github.com/user-attachments/assets/fedddf9c-d50b-4662-a511-8f7b551796c8)
 
