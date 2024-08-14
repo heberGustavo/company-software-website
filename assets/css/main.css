@@ -1054,9 +1054,10 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
-  border-radius: 50px;
+  width: 100px;
+  border-radius: 140px;
   margin-right: 15px;
+  height: 100px;
 }
 
 .testimonials .testimonial-item h3 {
@@ -2614,7 +2615,6 @@ section {
 .footer {
   font-size: 14px;
   background-color: #041432;
-  padding: 50px 0;
   color: white;
 }
 
