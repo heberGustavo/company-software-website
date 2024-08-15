@@ -40,7 +40,7 @@
 
 #navbar a,
 .header .logo h1{
-    color: #041432 !important;
+    color: #041432;
 }
 
 .header .logo h1 span{
@@ -64,7 +64,7 @@
 }
 
 .mobile-nav-active .navbar:before{
-    background: #041432;
+    background: #04143200;
 }
 
 #topbar a:hover{
@@ -134,6 +134,10 @@ section{
     #header {
         padding: 0 30px;
     }
+
+    .pricing h3 {
+        font-size: 14px;
+    }
 }
 
 @media (max-width: 600px) {
@@ -145,4 +149,3 @@ section{
         font-size: 20px;
     }
 }
-
